@@ -124,7 +124,8 @@ iframe {
 
 .border_right {
   border-right: 1px dotted #ccc;
-  padding-right: 20px;
+  padding-right: 13%;
+  padding-left: 14%;
 }
 
 .thumbs_up {
