@@ -24,4 +24,42 @@
 
 /* Positioning Classes */
 
+.shadow
+{
+  width: 100%;
+}
+#Featured
+{
+  width: 32.3%;
+  height: 100%;
+  float: left; 
+  margin-right: 1.03%;
+  margin-bottom: 20px;
+ 
+}
+.middle 
+{
+  width: 66%;
+  height: 100%;
+  float: left;
+  margin-bottom: 20px;
+  
+  
+}
+#Archive
+{
+  margin-bottom: 20px;
+  float: left;
+  height: 100%;
+  width: 32%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
 
+.border_right
+{
+ text-align: justify;
+ display: inline-block;
+ margin-left: 6%;
+ margin-right: 6%;
+}

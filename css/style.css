@@ -23,6 +23,7 @@ body {
 
 h2, h3 {
   margin-bottom: 5px;
+  text-align: justify;
 }
 
 ul, ol {
@@ -255,8 +256,11 @@ a.gplus:active { background-position: -80px -80px; }
 /********** Sections **********/
 
 section {
-  padding: 20px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
   background: white;
+  padding-bottom: 0;
 }
 
 section a {
